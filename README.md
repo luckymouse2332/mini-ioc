@@ -1,2 +1,3 @@
 # mini-ioc
-A mini IoC container with Java
+一个用Java语言实现的IoC容器，没有用到任何的外部库，直接编译即可
+学习项目，代码写的很烂，请见谅
